@@ -1,7 +1,7 @@
 export const defaultTheme = {
   while: '#FFFFFF',
 
-  'background': '#FAFAFA',
+  background: '#FAFAFA',
 
   'yellow-700': '#C47F17',
   'yellow-400': '#DBAC2C',
